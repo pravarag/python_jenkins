@@ -4,7 +4,7 @@ import boto3
 
 from boto3.session import Session
 
-session=Session(aws_access_key_id='AKIAJTN7IEMUD5BAC7UQ', aws_secret_access_key='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')
+session=Session(aws_access_key_id='', aws_secret_access_key='')
 
 session=boto3.Session(profile_name='test')
 
